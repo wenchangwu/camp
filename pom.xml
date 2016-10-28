@@ -8,6 +8,11 @@
   <artifactId>camp</artifactId>
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module>bootstrap</module>
+    <module>service</module>
+    <module>common</module>
+  </modules>
 
 
   <properties>
